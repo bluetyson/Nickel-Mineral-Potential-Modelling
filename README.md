@@ -9,7 +9,7 @@ A collection of ESRI ArcGIS tools to perform GIS-based mineral (Nickel) prospect
 
 - http://www.ga.gov.au/metadata-gateway/metadata/record/83884
 
-###**Dependancies**###
+###**Dependencies**###
 
 
 - ESRI ArcGIS 10.1 (ArcInfo Licence)
